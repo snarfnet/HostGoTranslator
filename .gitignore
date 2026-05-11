@@ -1,0 +1,13 @@
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+Pods/
+.DS_Store
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+cert.p12
