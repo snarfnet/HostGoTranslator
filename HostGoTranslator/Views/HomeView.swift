@@ -124,7 +124,8 @@ struct HomeView: View {
                             }
                         }
 
-                        BannerAdPlaceholder()
+                        BannerAdView(adUnitID: "ca-app-pub-9404799280370656/5803546508")
+                    .frame(height: 50)
                             .padding(.bottom, 22)
                     }
                     .padding(.horizontal, 18)

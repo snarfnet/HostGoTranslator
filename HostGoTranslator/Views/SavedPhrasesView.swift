@@ -47,7 +47,8 @@ struct SavedPhrasesView: View {
                             ForEach(filteredPhrases) { phrase in
                                 savedRow(phrase)
                             }
-                            BannerAdPlaceholder()
+                            BannerAdView(adUnitID: "ca-app-pub-9404799280370656/5803546508")
+                    .frame(height: 50)
                                 .padding(.top, 4)
                                 .padding(.bottom, 24)
                         }
