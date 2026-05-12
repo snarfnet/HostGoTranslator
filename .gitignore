@@ -11,3 +11,4 @@ xcuserdata/
 *.xcscmblueprint
 *.xccheckout
 cert.p12
+.omc/
