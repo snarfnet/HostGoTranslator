@@ -50,6 +50,7 @@ targets:
           - UIInterfaceOrientationLandscapeLeft
           - UIInterfaceOrientationLandscapeRight
         UIUserInterfaceStyle: Dark
+        NSUserTrackingUsageDescription: "広告の配信と効果測定のために使用します。"
         GADApplicationIdentifier: "ca-app-pub-9404799280370656~6279628616"
         SKAdNetworkItems:
           - SKAdNetworkIdentifier: cstr6suwn9.skadnetwork
